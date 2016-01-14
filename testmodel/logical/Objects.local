@@ -1,2 +1,6 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<oracle.dbtools.crest.model.design.logical.LogicalDesign/>
+<oracle.dbtools.crest.model.design.logical.LogicalDesign>
+   <object objectType="Entity" objectID="61FCB2D2-B87C-3C6B-C17E-C5671C0C0F41" name="Client" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.logical.Entity" propertyParentId="3431261A-E324-8EAF-D79D-0C692087480C" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Entity" objectID="610D6D73-C5DF-C761-8D46-0CE06A94F879" name="Contract" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.logical.Entity" propertyParentId="3431261A-E324-8EAF-D79D-0C692087480C" propertySourceId="" propertyTargetId=""/>
+   <object objectType="Entity" objectID="FF9DA351-354A-52EF-FE83-A55D02D8CB72" name="dalsi blba entita" seqName="seg_0" propertyClassName="oracle.dbtools.crest.model.design.logical.Entity" propertyParentId="3431261A-E324-8EAF-D79D-0C692087480C" propertySourceId="" propertyTargetId=""/>
+</oracle.dbtools.crest.model.design.logical.LogicalDesign>

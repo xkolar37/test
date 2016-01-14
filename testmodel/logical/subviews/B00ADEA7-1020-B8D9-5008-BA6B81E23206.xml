@@ -1,5 +1,5 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Diagram class="oracle.dbtools.crest.swingui.logical.DPVLogical" id="B00ADEA7-1020-B8D9-5008-BA6B81E23206">
+<Diagram class="oracle.dbtools.crest.swingui.logical.DPVLogical" name="Logical" id="B00ADEA7-1020-B8D9-5008-BA6B81E23206">
 <createdBy>romek</createdBy>
 <modifiedBy>romek</modifiedBy>
 <createdTime>2016-01-14 10:02:02 UTC</createdTime>
@@ -13,4 +13,18 @@
 <diagramColor>-1</diagramColor>
 <display>false</display>
 <notation>1</notation>
+<objectViews>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="610D6D73-C5DF-C761-8D46-0CE06A94F879" otype="Entity" vid="297913E9-C074-8FFF-5172-C2D58FEF15BD">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="79" y="279" width="170" height="110"/>
+</OView>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="61FCB2D2-B87C-3C6B-C17E-C5671C0C0F41" otype="Entity" vid="A94582B2-04F0-E6F5-BABE-77664FA138C7">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="65" y="121" width="170" height="110"/>
+</OView>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="FF9DA351-354A-52EF-FE83-A55D02D8CB72" otype="Entity" vid="0D967CFA-04BB-C767-2011-F71E652B1A97">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="85" y="419" width="206" height="145"/>
+</OView>
+</objectViews>
 </Diagram>

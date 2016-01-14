@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="610D6D73-C5DF-C761-8D46-0CE06A94F879" name="Contract">
+<createdBy>romek</createdBy>
+<createdTime>2016-01-14 10:17:58 UTC</createdTime>
+<ownerDesignName>testmodel</ownerDesignName>
+<engineerTo>
+<item key="4BF5FCB7-34DF-1966-E188-D5700C4AB2C9" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+</Entity>
