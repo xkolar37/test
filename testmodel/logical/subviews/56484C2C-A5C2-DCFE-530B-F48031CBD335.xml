@@ -1,0 +1,30 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Diagram class="oracle.dbtools.crest.swingui.logical.DPVLogicalSubView" name="Subview 1 - Roman" id="56484C2C-A5C2-DCFE-530B-F48031CBD335">
+<createdBy>romek</createdBy>
+<modifiedBy>romek</modifiedBy>
+<createdTime>2016-01-14 12:48:31 UTC</createdTime>
+<autoRoute>false</autoRoute>
+<boxInbox>true</boxInbox>
+<showLegend>false</showLegend>
+<showLabels>false</showLabels>
+<showRelAttributes>false</showRelAttributes>
+<gridEnabled>false</gridEnabled>
+<showGrid>false</showGrid>
+<diagramColor>-1</diagramColor>
+<display>false</display>
+<notation>1</notation>
+<objectViews>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="610D6D73-C5DF-C761-8D46-0CE06A94F879" otype="Entity" vid="64CB836D-B650-FAF1-F9C9-A16CE31FDD66">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="713" y="217" width="170" height="110"/>
+</OView>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="61FCB2D2-B87C-3C6B-C17E-C5671C0C0F41" otype="Entity" vid="BC1CEF57-19DC-DB11-6C62-A10843B89304">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="222" y="223" width="170" height="110"/>
+</OView>
+<OView class="oracle.dbtools.crest.swingui.logical.TVEntity" oid="FF9DA351-354A-52EF-FE83-A55D02D8CB72" otype="Entity" vid="BA1786CC-7479-D381-4341-DDCC88B51B06">
+<hideElementsInCurrentOnly>false</hideElementsInCurrentOnly>
+<bounds x="223" y="497" width="206" height="145"/>
+</OView>
+</objectViews>
+</Diagram>
